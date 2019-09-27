@@ -3,7 +3,8 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/concrete_seamless.png");
+  background: url("../images/chains-1569543857646-1706.jpg");
+  background-position: center;
 }
 
 * {
@@ -42,7 +43,7 @@ h1 {
   padding-bottom: 20px;
   font-size: 30px;
   line-height: 49px;
-  border-bottom: 3px solid #dddddd;
+  border-bottom: 3px solid #f1ecec;
 }
 
 h2,
@@ -63,7 +64,7 @@ footer {
   color: #ffffff;
   color: #cccccc;
   text-align: center;
-  background: #666666;
+  background: #363636;
   border-top: 8px solid #4aaaa5;
   height: 50px;
 }
@@ -93,7 +94,7 @@ h3, h2 {
   max-width: 960px;
   padding: 30px;
   margin: 0 0 40px;
-  background: #ffffff;
+  background: #acc2c2b2;
   border: 1px solid #dddddd;
 }
 
